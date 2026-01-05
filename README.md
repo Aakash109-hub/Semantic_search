@@ -1,4 +1,3 @@
-Youtube Link: https://youtu.be/SFkHRtp_t6M
 # 📄 Semantic Search in RAG using LangChain (PDF Example)
 
 This repository demonstrates **how semantic search works in a Retrieval-Augmented Generation (RAG) system** using **LangChain** and a **PDF document**.
@@ -134,7 +133,7 @@ The system retrieves the most relevant chunks **based on meaning**, not keywords
 
 This repository is created as part of a video explaining **semantic search in RAG using LangChain**.
 
-👉 *(Add your YouTube link here)*
+👉See Explanation Here: https://youtu.be/SFkHRtp_t6M
 
 ---
 
