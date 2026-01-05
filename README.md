@@ -1,11 +1,4 @@
 Youtube Link: https://youtu.be/SFkHRtp_t6M
-Nice 👍 adding this to GitHub is a smart move.
-Below is a **clean, beginner-friendly README.md** you can directly copy-paste into your repo.
-
-It explains **what the project is**, **what semantic search is**, and **how your notebook works**, without sounding heavy or academic.
-
----
-
 # 📄 Semantic Search in RAG using LangChain (PDF Example)
 
 This repository demonstrates **how semantic search works in a Retrieval-Augmented Generation (RAG) system** using **LangChain** and a **PDF document**.
