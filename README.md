@@ -133,7 +133,7 @@ The system retrieves the most relevant chunks **based on meaning**, not keywords
 
 This repository is created as part of a video explaining **semantic search in RAG using LangChain**.
 
-👉See Explanation Here: https://youtu.be/SFkHRtp_t6M
+👉See Explanation Here:[semantic_Search](https://youtu.be/SFkHRtp_t6M)
 
 ---
 
@@ -142,14 +142,3 @@ This repository is created as part of a video explaining **semantic search in RA
 This project provides a simple and clear understanding of how **semantic search works inside a RAG system** using LangChain and PDFs.
 
 Feel free to fork, experiment, and build on top of it 🚀
-
----
-
-If you want, next I can:
-
-* Optimize this README for **recruiters**
-* Add **badges + visuals**
-* Write a **project description for LinkedIn**
-* Help you structure this as a **portfolio project**
-
-Just tell me 👌
