@@ -133,7 +133,7 @@ The system retrieves the most relevant chunks **based on meaning**, not keywords
 
 This repository is created as part of a video explaining **semantic search in RAG using LangChain**.
 
-👉See Explanation Here:[semantic_Search](https://youtu.be/SFkHRtp_t6M)
+👉See Explanation Here: [Semantic Search](https://youtu.be/SFkHRtp_t6M)
 
 ---
 
