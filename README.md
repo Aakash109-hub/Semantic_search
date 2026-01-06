@@ -2,7 +2,7 @@
 
 This repository demonstrates **how semantic search works in a Retrieval-Augmented Generation (RAG) system** using **LangChain** and a **PDF document**.
 
-The project focuses only on the **retrieval part of RAG**, showing how relevant content is fetched from documents using embeddings and similarity search
+The project focuses only on the **retrieval part of RAG**, showing how relevant content is fetched from documents using embeddings and similarity search.
 
 ---
 
